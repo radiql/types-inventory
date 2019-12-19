@@ -1,2 +1,2 @@
 # types-inventory
-A collection of data types commonly found in inventory management stories
+A collection of data types commonly used in inventory management stories
